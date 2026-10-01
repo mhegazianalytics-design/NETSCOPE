@@ -1,0 +1,6 @@
+{
+  "name": "NETSCOPE",
+  "description": "Local Network Reconnaissance & Continuous Assessment Platform for authorized network security assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
